@@ -1,0 +1,72 @@
+.title{
+	font-size: 60px;
+}
+html{
+	background-color: #ffffcc;
+}
+
+.table1{
+	margin: auto;
+	height: 650px;
+	width: 400px;
+	border-spacing: 15px;
+}
+
+.table2{
+	border: black solid 3px;
+	margin: auto;
+	text-align: center;
+	height: 200px;
+	width: 1600px;
+	vertical-align: top;
+}
+
+.formoreinfo{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.column1{
+	vertical-align: top;
+	text-align: center;
+	margin: left;
+	padding: 70px;
+	border: black solid 3px;
+	width: 250px;
+}
+
+.column1text{
+	
+}
+
+.column2{
+	margin: auto;
+	padding: 70px;
+}
+
+.column3{
+	vertical-align: top;
+	text-align: center;
+	margin: right;
+	padding: 70px;
+	border: black solid 3px;
+	width: 250px;
+}
+
+.column1row2{
+	text-align: center;
+}
+
+.column1r2text1{
+	
+}
+
+img{
+	height: 500px;
+	width: 650px;
+}
+
+.websitelink{
+	font-size: 20px;
+	font-weight: bold;
+}

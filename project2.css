@@ -1,0 +1,63 @@
+html{
+	background-color: #ffffcc;
+}
+
+h1{
+	border: black 3px;
+	border-style: groove;
+}
+
+.grid{
+	display: grid;
+	font-size: 75px;
+}
+
+.grid1{
+	grid-template-columns: 350px 350px 350px 350px;
+	grid-template-rows: 300px 300px 300px 300px;
+	display: grid;
+	grid-gap: 5px;
+	grid-column-start: auto;
+	margin-left: 250px;
+	margin-right: 250px;
+}
+
+.moreinfo{
+	border: black solid 5px;
+	font-size: 40px;
+}
+
+.image1{
+	height: auto;
+	width: 50%;
+}
+
+.image2{
+	height: auto;
+	width: auto;
+}
+
+.image3{
+	height: auto;
+	width: 50%;
+}
+
+.image4{
+	height: auto;
+	width: 50%;
+}
+
+.sj{
+	border: black solid 5px;
+	font-size: 40px;
+}
+
+.hf{
+	border: black solid 5px;
+	font-size: 40px;
+}
+
+.cp{
+	border: black solid 5px;
+	font-size: 40px;
+}
